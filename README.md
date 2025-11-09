@@ -29,5 +29,5 @@ Aptean Hackathon - AI Case Resolution Agent
 
 Notes:
  - If faiss installation fails, the embedding store falls back to sklearn-based nearest neighbor.
- - Use small inputs in hackathon. Keep an eye on transformers memory use.
+ - Use small inputs. Keep an eye on transformers memory use.
  - Models will download weights on first run (internet required).
