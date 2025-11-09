@@ -1,4 +1,4 @@
-Aptean Hackathon - AI Case Resolution Agent (local, no Docker)
+Aptean Hackathon - AI Case Resolution Agent
 
 1) Backend setup
    cd backend
